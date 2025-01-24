@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Iron
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: baseTilemaps
+    uniqueID: 1694421035
+    locked: 0
+  - name: groundTilemaps
+    uniqueID: 2804597715
+    locked: 0
+  - name: wallTilemaps
+    uniqueID: 614459923
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: topTilemaps
+    uniqueID: 3126557461
+    locked: 0
